@@ -1,0 +1,89 @@
+/* 修改后的暖色调全局样式 */
+
+// 按钮颜色
+$buttonColor: #d2691e; // 深橙色
+$buttonHover: #f08080; // 浅珊瑚色
+$topButtonHover: #8b4513; // 棕色
+
+// 文本颜色（浅色主题）
+$titleColor: #663300; // 深棕色
+$textColor: #663300; // 深棕色
+$subTitle: #c0a080; // 浅棕色
+$cardSubtitle: #b5651d; // 烤面包色
+$talkCardSubTitle: #996600; // 深黄色
+$blogCardTitleColor: #4b3621; // 栗色
+
+// 文本颜色（深色主题）
+$textColorDark: #ffe4c4; // 浅米色
+
+// 切换开关颜色
+$toggleCheck: #ff6347; // 番茄色
+$toggleSwitchSliderBG: #f5deb3; // 小麦色
+
+// GitHub 特定颜色
+$githubRepoCardLanguageColorBG: #ff4500; // 橙红色
+$githubRepoCardColor: rgb(139, 69, 19); // 巧克力色
+$githubRepoCardRepoCardStatsColor: rgb(160, 82, 45); // 锈色
+$githubRepoCardRepoNameColor: rgb(128, 0, 0); // 栗色
+$githubProfileCardLocationTS: #f4a460; // 沙褐色
+$githubProfileCardBorder: #b22222; // 火砖色
+
+// 浅色背景
+$lightBackground1: #fffaf0; // 白杏色
+$lightBackground2: rgb(255, 248, 220); // 玉米色
+$lightBackground3: #faebd7; // 古董白
+$blogCardContainerColor: #d2b48c; // 黄褐色
+
+// 深色背景
+$darkBackground: #3b2f2f; // 深红褐色
+
+// 浅色主题阴影
+$lightBoxShadowDark: rgba(128, 64, 0, 0.2); // 暗橙色阴影
+$lightBoxShadow: rgba(139, 69, 19, 0.1); // 浅巧克力色阴影
+$lightBoxShadowDarker: rgba(165, 42, 42, 0.3); // 棕红色阴影
+
+// 深色主题阴影
+$darkBoxShadow: #deb887; // 浅褐色阴影
+$darkBoxShadow2: #f5deb3; // 小麦色阴影
+
+// 渐变
+$experienceCardBlurredDivLG: linear-gradient(
+  rgba(255, 140, 0, 0.4), // 深橙色
+  rgba(255, 69, 0, 0.2)   // 橙红色
+);
+$experienceCardBannerLG: linear-gradient(
+  rgba(255, 99, 71, 0.7), // 番茄色
+  rgba(255, 140, 0, 0.5)  // 深橙色
+);
+
+// 边框
+$progressBarBackground: rgb(255, 222, 173); // 浅杏色
+$lightBorder1: rgba(210, 105, 30, 0.397); // 巧克力色
+$educationCardBorder: #ffa07a; // 浅鲑色
+
+// 悬停效果
+$achievementCertificateCardHoverDark: rgba(255, 235, 205, 0.2); // 浅杏色悬停
+$blogCardHoverSmallColor: rgba(255, 228, 196, 0.8); // 浅米色悬停
+$headerHoverBG: #f5deb3; // 小麦色
+$contactDetailHoverTS: #ffdab9; // 桃色
+
+// 其他背景颜色
+$progressBarSpanBG: #f4a460; // 沙褐色
+$iconBackground: #8b4513; // 棕色
+$appHeaderBG: #a0522d; // 黄褐色
+
+// 其他颜色
+$skillsColor: #ff7f50; // 珊瑚色
+$appLink: #ff4500; // 橙红色
+
+// 社交媒体图标颜色
+$faceBook: #cd5c5c; // 印度红
+$linkedin: #b22222; // 火砖色
+$github: #8b4513; // 棕色
+$gitlab: #d2691e; // 巧克力色
+$google: #ff6347; // 番茄色
+$twitter: #f4a460; // 沙褐色
+$medium: #a0522d; // 黄褐色
+$stackoverflow: #d2691e; // 巧克力色
+$instagram: #e9967a; // 深鲑色
+$kaggle: #ffdab9; // 桃色

@@ -1,0 +1,12 @@
+.env
+
+
+# dependencies
+/node_modules
+
+# testing
+/build
+
+
+#user generated content
+public/profile.json

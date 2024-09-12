@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.694f0ad6.css",
+    "main.js": "/portfolio/static/js/main.8fbdc60f.js",
+    "static/css/487.708c832e.chunk.css": "/portfolio/static/css/487.708c832e.chunk.css",
+    "static/js/487.65bd2220.chunk.js": "/portfolio/static/js/487.65bd2220.chunk.js",
+    "static/css/990.18baef20.chunk.css": "/portfolio/static/css/990.18baef20.chunk.css",
+    "static/js/990.557a559e.chunk.js": "/portfolio/static/js/990.557a559e.chunk.js",
+    "static/media/slt.webp": "/portfolio/static/media/slt.d22dc1dc40a93fdd0f3b.webp",
+    "static/media/gbjd.webp": "/portfolio/static/media/gbjd.756879aa8aee2acc8d07.webp",
+    "static/media/hynr.webp": "/portfolio/static/media/hynr.8e827b0ad4c4b9912673.webp",
+    "static/media/hsnr.webp": "/portfolio/static/media/hsnr.e1ae54d90ebc35160a3b.webp",
+    "static/media/mpdf.webp": "/portfolio/static/media/mpdf.710305416dd0f7d11b1e.webp",
+    "static/media/tclj.webp": "/portfolio/static/media/tclj.d958df31d91045c2b5f1.webp",
+    "static/media/yxqz.webp": "/portfolio/static/media/yxqz.9a7117cdaac9a170e636.webp",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.ee450e39d6819585fa27e8b6bb9621aa.svg",
+    "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/wine.svg": "/portfolio/static/media/wine.90dc024f8cec57d2b86e86b7f57ad7ae.svg",
+    "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.694f0ad6.css.map": "/portfolio/static/css/main.694f0ad6.css.map",
+    "main.8fbdc60f.js.map": "/portfolio/static/js/main.8fbdc60f.js.map",
+    "487.708c832e.chunk.css.map": "/portfolio/static/css/487.708c832e.chunk.css.map",
+    "487.65bd2220.chunk.js.map": "/portfolio/static/js/487.65bd2220.chunk.js.map",
+    "990.18baef20.chunk.css.map": "/portfolio/static/css/990.18baef20.chunk.css.map",
+    "990.557a559e.chunk.js.map": "/portfolio/static/js/990.557a559e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.694f0ad6.css",
+    "static/js/main.8fbdc60f.js"
+  ]
+}

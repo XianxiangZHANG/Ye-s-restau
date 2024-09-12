@@ -4,8 +4,6 @@
 # dependencies
 /node_modules
 
-# testing
-/build
 
 
 #user generated content
